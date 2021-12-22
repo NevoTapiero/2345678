@@ -10,7 +10,7 @@ public class If3
         c=y%4;
         if(c == 0)
             System.out.println("in this year the february have 29 days");
-        else{
+        else
             System.out.println("in this year the february have 28 days");
     }
 }
