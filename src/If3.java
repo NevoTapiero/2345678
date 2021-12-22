@@ -12,6 +12,5 @@ public class If3
             System.out.println("in this year the february have 29 days");
         else{
             System.out.println("in this year the february have 28 days");
-        }
     }
 }
